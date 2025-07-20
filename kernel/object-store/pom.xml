@@ -33,7 +33,7 @@
         <kernel.bom.version>1.2.1-java21-SNAPSHOT</kernel.bom.version>
 
         <aws.javasdk.version>1.12.761</aws.javasdk.version>
-        <joss.adapter.version>0.10.2</joss.adapter.version>
+        <joss.adapter.version>0.10.4</joss.adapter.version>
         <mockito.core.version>3.3.3</mockito.core.version>
 
         <sonar.coverage.exclusions>**/constant/**,**/config/**,**/dto/**,**/entity/**,**/model/**,**/exception/**,**/repository/**,**/security/**,**/*Config.java,**/*S3Adapter.java,**/*SwiftAdapter.java</sonar.coverage.exclusions>
